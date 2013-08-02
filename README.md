@@ -16,10 +16,10 @@ Good for testing simple HTML.
 # Usage
 
 ## Serve files in a local folder
-```simple-server folder-name```
+```serve folder-name```
 
-Example: ```simple-server ~/code/strummer/examples/```
+Example: ```serve ~/code/strummer/examples/```
 
 
 ## Serve files in the default folder (./static)
-```simple-server```
+```serve```
