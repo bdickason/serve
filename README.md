@@ -1,9 +1,9 @@
-simple-server
+serve
 ========
 
 ### A simple server to display static assets.
 
-Good for testing simple HTML.
+Good for testing single-serving sites or HTML snippets.
 
 
 # Installation
