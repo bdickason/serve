@@ -16,7 +16,7 @@ Good for testing simple HTML.
 # Usage
 
 ## Serve files in a local folder
-```serve folder-name```
+```serve <folder-name>```
 
 Example: ```serve ~/code/strummer/examples/```
 
