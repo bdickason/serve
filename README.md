@@ -1,7 +1,7 @@
 serve
 ========
 
-### A simple server to display static assets.
+### Serve up html and static sites from any directory
 
 Good for testing single-serving sites or HTML snippets.
 
