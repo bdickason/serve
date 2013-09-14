@@ -18,6 +18,10 @@
 
   directory = process.argv[2] || __dirname + '/static';
 
+  if (directory === '.') {
+    directory = process.cwd();
+  }
+
   app.use(express["static"](directory));
 
   console.log("Serving static files from '" + directory + "'");
